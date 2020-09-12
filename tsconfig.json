@@ -12,6 +12,12 @@
     },
     {
       "path": "./projects/angular-library/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/library-test/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/library-test/tsconfig.spec.json"
     }
 ]
 }
